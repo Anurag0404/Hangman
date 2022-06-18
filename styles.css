@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+}
+.letter{
+  display: inline-block;
+  margin: 5px;
+}
+.result{
+  margin: 5px;
+  text-align: center;
+  font-size: 12px;
+}
+.win{
+  font-size: large;
+  color: green;
+  text-align: center;
+}
+.lose{
+  font-size: large;
+  color: red;
+  text-align: center; 
+}
+.fword{
+  font-size:medium;
+}
+
+
